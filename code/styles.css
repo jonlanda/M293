@@ -1,0 +1,20 @@
+h1 {
+    font-size: 300px;
+    color: aqua;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#logo {
+    margin-top: 20px;
+    height: 300px;
+    width: 200px;
+}
+
+html {
+    line-height: 1.1em;
+}
