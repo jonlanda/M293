@@ -25,7 +25,7 @@ li a:hover {
 .bodyHome {
     margin: 0;
     padding: 0;
-    background-image: url(/image/lol.jpg);
+    background-image: url(image/lol.jpg);
     background-color: white;
     background-repeat: no-repeat;
     background-size: cover;
